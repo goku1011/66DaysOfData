@@ -1,4 +1,4 @@
 Housing Prices dataset - 
-File - intermediateML_missing_values.py, intermediateML_missing_values.csv
+File - intermediateML_missing_values.py, submission_intermediateML_missing_values.csv
 1) Dropping columns which have missing values in the dataset
 2) Using SimpleImputer() to take care of missing values in the dataset
