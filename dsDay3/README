@@ -2,3 +2,13 @@ Housing Prices dataset -
 File - intermediateML_missing_values.py, submission_intermediateML_missing_values.csv
 1) Dropping columns which have missing values in the dataset
 2) Using SimpleImputer() to take care of missing values in the dataset
+
+
+File - intermediateML_categorical_variables.py, submission_categorical_variables.csv
+1) Dropping columns which are objects
+2) Label Encoding the columns which are objects (no extra addition of columns)
+3) One Hot Encoding the columns which are objects (add as many columns as there are unique entries in an object column)
+4) Cardinality (If the unique entries in an object column is a lot, meaning high cardinality, drop them)
+
+File - intermediateML_pipelines.py, submission_intermediateML_pipelines.csv
+1) How to create pipelines to bundle the preprocessing and model together
