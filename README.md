@@ -12,3 +12,5 @@ dsDay4 - Cross validation, XGBoost, Intermediate Machine Learning,
 dsDay5 - Natural Language Processing Intro,
 
 dsDay6 - Text Classification, Natural Language Processing,
+
+dsDay7 - Word Vectorization, Natural Language Processing,
